@@ -6,8 +6,7 @@
 **La mejor herramienta para preparar exámenes y simulacros 📖✅**
 <br>
 ## Cómo Funciona:
-Opositor es una **Aplicación Web**, por lo que es compatible en todos los dispositivos con acceso a Internet. De hecho, puedes probar Opositor sin necesidad de descargar a través de este enlace: [Opositor Web](https://opositor.vercel.app)
-
+Opositor es una Aplicación hecha en Swift, por lo que esta hecha para dispositivos que usen MacOS y iOS
 ## Descargas 📁:
 
 
