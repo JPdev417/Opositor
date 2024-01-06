@@ -1,6 +1,6 @@
 # Opositor
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103833998/264110087-778abb43-fff1-415f-8d3d-2587c3f6b9be.png" height="250">
+<img src="https://i.ibb.co/Ny0DnmS/Icn-512.png" height="250">
 <br>
 
 **La mejor herramienta para preparar exámenes y simulacros 📖✅**
